@@ -1,16 +1,26 @@
 
 # UTSSRP - 
-
-Simple overview of use/purpose.
+This project focuses on constructing and analyzing chromosome contact matrices based on genomic interaction data. The dataset consists of contact counts between paits of chromosome locations, indicating how often regions of the genome come into the contact. 
+The main objectives of the project are:
 
 ## Description
 
-This project focuses on constructing and analyzing chromosome contact matrices based on genomic interaction data. The dataset consists of contact counts between paits of chromosome locations, indicating how often regions of the genome come into the contact. 
 The main objectives of the project are:
-1. Data Preprocessing
+#### 1. Data Preprocessing
 - Convert chromosome names into numeric form for easier processing
+- Bin each chromosome into ...
 
-## Getting Started
+#### 2. Contact Matrix Construction
+- For each chromosome pair, create a submatrix representing contact frequencies between all bin pairs
+- Assemble all submatrices into one large genome-wide contact matrix
+
+#### 3. Summary Statistics and Visualizations
+- Generate heatmaps to visualize the intensity of contacts across the genome.
+- Plot contact decay curves to study how contact frequency decreases with genomic distance.
+  
+
+#### 4. Analysis and Comparison
+
 
 ### Dependencies
 
@@ -30,13 +40,6 @@ The main objectives of the project are:
 code blocks for commands
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Contributors
 
 Contributors names and contact info
@@ -46,9 +49,6 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
 
