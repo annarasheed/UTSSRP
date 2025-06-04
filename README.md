@@ -1,5 +1,5 @@
 
-# UTSSRP - 
+# UTSSRP - Chromosome Contact Matrix Analysis
 This project focuses on constructing and analyzing chromosome contact matrices based on genomic interaction data. The dataset consists of contact counts between paits of chromosome locations, indicating how often regions of the genome come into the contact. 
 The main objectives of the project are:
 
