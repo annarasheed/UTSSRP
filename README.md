@@ -1,7 +1,7 @@
 
 # UTSSRP - Chromosome Contact Matrix Analysis
 This project was completed during the inaugural University of Toronto Statistical Sciences Research Program.
-It focuses on constructing and analyzing chromosome contact matrices based on genomic interaction data. The dataset consists of contact counts between pairs of chromosome locations, indicating how often regions of the genome come into the contact. 
+It focuses on constructing and analyzing chromosome contact matrices based on genomic interaction data. The dataset consists of contact counts between pairs of chromosome locations, indicating how often regions of the genome come into contact. 
 The main objectives of the project are:
 
 ## Description
