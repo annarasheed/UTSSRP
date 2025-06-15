@@ -30,7 +30,7 @@ The main objectives of the project are:
 ## Contributors
 - Anna Rasheed [@annarasheed](https://github.com/annarasheed)
 - Kini Chen [@kinichen](https://github.com/kinichen)
-- Benjamin Jagdeo 
+- Benjamin Jagdeo [@benjagdeo](https://github.com/benjagdeo)
 - Saladin Shaurov [@saladinshaurov](https://github.com/saladinshaurov)
 - Supervisor: Professor Elena Tuzhilina
 
